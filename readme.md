@@ -1,1 +1,1 @@
-A repo for to collect hobby scripts I make to model any manner of things.
+A repo to collect hobby scripts related to options, aerospace, brainteasers, fantasy sports and other interesting topics.
